@@ -3,5 +3,6 @@ def munlNUm(a, b):
     return result
 
 x = 10
-y = 20
+y = 200 #수정
 print(munlNUm(x, y))
+print("hello") #추가
